@@ -1,0 +1,13 @@
+Steps:
+
+1: Make sure the two excel files are in the following path
+   or change path in workflow.
+
+	"C:\Users\me\Desktop\PAERrawdata.xlxs" -- input
+
+	"C:\Users\me\Desktop\PAER REPORTS 3.xlsm" -- outputs formatted report - macros enabled workbook for formatting.
+
+
+2: Run the process 
+
+3: To re-execute make sure you delete the formatted report in "PAER REPORTS 3.xlsm" worksheet
